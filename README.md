@@ -1,4 +1,4 @@
-# Kaushal Singh
+# Sourya Kumar Verma
 ## Portfolio Website
 The portfolio is live @
-# https://kaushal.byticians.com
+# https://sourya.byticians.com
